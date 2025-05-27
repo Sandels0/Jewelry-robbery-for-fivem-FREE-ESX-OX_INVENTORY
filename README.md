@@ -1,8 +1,37 @@
-# Information
-- S-Development Fivem jewelry robbery script. With easy config and with read.md where is everything for installation.
- If u need something more or ideas you can give ideas in discord.
+Nice jewelry robbery, with good config. You can change anything just like you like.
+If u need something more or ideas you can give ideas in discord.
 
-# Support and preview
-- Discord: https://discord.gg/RKB8dcFHKN
-- Youtube: https://youtu.be/XQwXeOM4V7E?si=4lMnsp2Kj_fWK0DD
-- Tiktok: https://www.tiktok.com/@s._.development/video/7509256481053625622?is_from_webapp=1&sender_device=pc
+Discord link: https://discord.gg/RKB8dcFHKN
+
+OX_inventory items
+
+["necklase"] = {
+	label = "Gold Necklace",
+	weight = 5,
+	stack = true,
+	close = true,
+},
+["rolex"] = {
+	label = "Rolex",
+	weight = 5,
+	stack = true,
+	close = true,
+},
+["goldearring"] = {
+	label = "Gold Earring",
+	weight = 5,
+	stack = true,
+	close = true,
+},
+["bronzebracelet"] = {
+	label = "Bronze Bracelet",
+	weight = 5,
+	stack = true,
+	close = true,
+},
+["rubynecklace"] = {
+	label = "Ruby Necklace",
+	weight = 5,
+	stack = true,
+	close = true,
+},
