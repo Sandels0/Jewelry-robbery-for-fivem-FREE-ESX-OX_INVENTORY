@@ -7,31 +7,31 @@ If u need something more or ideas you can give ideas in discord.
 
 OX_inventory items
 
-["necklase"] = {
+- ["necklase"] = {
 	label = "Gold Necklace",
 	weight = 5,
 	stack = true,
 	close = true,
 },
-["rolex"] = {
+- ["rolex"] = {
 	label = "Rolex",
 	weight = 5,
 	stack = true,
 	close = true,
 },
-["goldearring"] = {
+- ["goldearring"] = {
 	label = "Gold Earring",
 	weight = 5,
 	stack = true,
 	close = true,
 },
-["bronzebracelet"] = {
-	label = "Bronze Bracelet",
+- ["bronzebracelet"] = {
+   label = "Bronze Bracelet",
 	weight = 5,
 	stack = true,
 	close = true,
 },
-["rubynecklace"] = {
+- ["rubynecklace"] = {
 	label = "Ruby Necklace",
 	weight = 5,
 	stack = true,
